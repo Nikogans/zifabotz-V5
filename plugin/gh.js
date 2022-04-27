@@ -5,10 +5,10 @@ let str = `
 ╭═══════════════════════
 ║╭──❉ 〔 ⳹ ❋ཻུ۪۪GITHUB⳹ ❋ཻུ۪۪ 〕 ❉────── 
 ║│➸ *_GITHUB OWNER_*
-║│➸  *https://github.com/Botynyakamu*
+║│➸  *https://github.com/Nikogans*
 ╰─────────❉
 ▌│█║▌║▌║║▌║▌║█│▌
-⳹ ❋ཻུ۪۪zifabotz⳹ ❋ཻུ۪۪⸙ by.rozi
+⳹ ❋ཻུ۪۪rielbotz⳹ ❋ཻུ۪۪⸙ by.rielgans
 `.trim()
 conn.sendButton(m.chat, str, `${botol}`, `⋮☰ Menu`, `.menu`, m)
 }
