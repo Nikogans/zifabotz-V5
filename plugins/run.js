@@ -11,7 +11,7 @@ let handler = async(m, { conn }) => {
 📮 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ *_CARI SC SENDIRI_*
 _____••••••••• 
-⬣━〔Store By Rozi〕━⬣
+⬣━〔Store By Riel〕━⬣
 ▌│█║▌║▌║║▌║▌║█│▌`.trim()
   const button = {
         buttonText: '↱ 🄺🄻🄸🄺 🅂🄸🄽🄸 ↲',
