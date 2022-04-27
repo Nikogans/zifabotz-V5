@@ -2,13 +2,12 @@ let handler  = async (m, { conn, usedPrefix }) => {
 conn.reply(m.chat, `
 ╭═══════════════════════
 ║╭──❉ 〔 INFO OWNER 〕 ❉────── 
-║│➸ ```NAMA``` : ROZI
+║│➸ ```NAMA``` : RIELGANS:V
 ║│➸ ```UMUR``` : 15thn
-║│➸ ```ASAL``` : PONTIANAK
-║│➸ ```OFFICIAL GRUP``` :
-https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv
-║│➸ ```ISTAGRAM``` : http://instagram.com/zalfapontianak
-║│➸ ```WHATSAPP``` : http://wa.me/6285828764046
+║│➸ ```ASAL``` : KALTIM/SAMARINDA
+║│➸ ```OFFICIAL GRUP``` :https://tinyurl.com/y5ck3k4u [gabung cu ramein]
+║│➸ ```ISTAGRAM``` : http://instagram.com/rielgans
+║│➸ ```WHATSAPP``` : http://wa.me/6282146218274
 ╰────────❉
 `.trim(), m)
 }
