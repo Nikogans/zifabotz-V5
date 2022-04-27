@@ -3,15 +3,15 @@ let { MessageType } = require('@adiwajshing/baileys')
 let handler = async(m, { conn }) => {
     let kontol = `╭─────[ *RULES* ]─────✧
 ┴
-│¹ Dilarang Hina zifabotz / Owner
+│¹ Dilarang Hina rielbotz / Owner
 │² Dilarang Spam Command
-│³ Dilarang Kirim Virtex ke zifabotz
+│³ Dilarang Kirim Virtex ke rielbotz
 │⁴ Dilarang Spam Menu Ga Jelas
 │⁵ Dilarang Telp / Vc
 │⁶ Dilarang Culik Bot
 │⁷ Dilarang Promosi
 │⁸ Dilarang Meniru pesan Bot
-│⁹ Bot Tidak Menerima Save Kontak
+│⁹ Bot Tidak Menerima Save Kontak / kalo mau save chat ownernya ganteng loh🗿
 │¹⁰ Dilarang Chat Owner Ga Jelas
 │¹¹ No plagiat
 ┬
